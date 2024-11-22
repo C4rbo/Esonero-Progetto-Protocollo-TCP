@@ -8,6 +8,6 @@
         - ITPS - AL
     
     2. STUDENTE: 
-        - Lorenzo, Fraccalvieri [805951]
+        - Fraccalvieri Lorenzo [805951]
         - l.fraccalvieri5@studenti.uniba.it
         - ITPS - AL
