@@ -3,7 +3,7 @@
 ## Gruppo composto da 2 membri:
     
     1. STUDENTE:
-        - Carbonara Alessio []
+        - Carbonara Alessio [763582]
         - a.carbonara40@studenti.uniba.it
         - ITPS - AL
     
